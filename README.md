@@ -6,7 +6,7 @@ I care about software that is easy to change: clear boundaries, business rules t
 place, tests that use real databases where it matters, and documentation that explains the
 trade-offs instead of only the setup steps.
 
-## Featured projects
+## Featured project
 
 **[work-management-starter](https://github.com/valdezallanvincent/work-management-starter)**
 A .NET 10 and Angular 21 starter built around a small work management domain. Clean Architecture,
@@ -14,14 +14,6 @@ EF Core with optimistic concurrency, JWT access tokens with rotating refresh tok
 that fails open, a transactional outbox with an optional Azure Service Bus transport, Testcontainers
 integration tests, Docker Compose and GitHub Actions. Each design decision has a written record
 with its alternatives and limitations.
-
-**[career-inbox](https://github.com/valdezallanvincent/career-inbox)**
-Personal job-search automation: captures job descriptions, de-duplicates listings, and produces an
-explainable shortlist with deterministic matching rules. C#, SQLite, n8n and GitHub Actions.
-
-**[pinoy-mahjong](https://github.com/valdezallanvincent/pinoy-mahjong)**
-Real-time multiplayer Pinoy Mahjong for two to four players with shareable room codes.
-Node.js and Socket.IO.
 
 ## Tools I use
 
